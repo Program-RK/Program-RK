@@ -1,5 +1,5 @@
 # 💫 About Me:
-☕ Brewing a unique project in VS code<br><br>🤝 I seek guidance whenever and where ever I can<br><br>🌱 Learning to be a full-stack Developer<br><br>💬 If you can nerd-out at any topic, lets talk<br><br>⚡ Fun fact - I built my first PC; first boot up, <br>both my GPU and CPU was outside of the case...
+☕ Brewing some code<br><br>🤝 I seek guidance whenever and where ever I can<br><br>🌱 Learning to be a full-stack Developer<br><br>💬 If you can nerd-out at any topic, lets talk<br><br>⚡ Fun fact - I built my first PC; first boot up, <br>both my GPU and CPU was outside of the case...
 
 
 # 💻 Tech Stack:
